@@ -46,7 +46,7 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 #### ⌨️ [CLCKTY](https://github.com/GlytheHorizon/CLCKTY)
 > **Tactile Audio Utility.** Brings the ASMR of high-end mechanical switches to any keyboard. Built with **C#** and **.NET 8**.
 
-#### ⏱️ [Toaa Time Logger](https://towastaymlager.netlify.app/)
+#### ⏱️ [Toaa Time Logger](https://github.com/GlytheHorizon/Toaa-Time-Logger)
 > **Internship Streamlining.** An interactive time-tracking app designed for OJT students to log hours with ease. Built with **Next.js 15**.
 
 #### 🛡️ [BSP Navotas Council Portal]
