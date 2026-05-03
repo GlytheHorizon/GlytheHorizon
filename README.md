@@ -1,75 +1,113 @@
-# 👨💻 Jerwin "Toaa" Estrada Cruz
-### AI-Augmented Full Stack Developer | Prompt Engineer | Vibe Coder
+<div align="center">
+  <img src="frontend/public/stv2.png" width="120" alt="Sovereign-T Logo" />
+  <h1>Sovereign-T</h1>
+  <p><strong>A Premium, High-Security Digital Vault for the Modern Sovereign</strong></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ideate-%3E-FF5733?style=for-the-badge&logo=openai&logoColor=white" alt="Ideate">
-  <img src="https://img.shields.io/badge/Automate-%3E-white?style=for-the-badge&logo=anthropic&logoColor=black" alt="Automate">
-  <img src="https://img.shields.io/badge/Evolve-Success-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Evolve">
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Version-4.5_Stable-cyan?style=for-the-badge" alt="Version" />
+    <img src="https://img.shields.io/badge/Build-0503262330PMS-blue?style=for-the-badge" alt="Build" />
+    <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows" alt="Platform" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
+  </p>
 
----
+  <hr />
 
-### 🚀 About Me
-I am a **Web Developer** dedicated to building scalable, interactive digital solutions. I specialize in orchestrating **AI agents** to streamline complex workflows, turning the pressure of development into the pleasure of creation. I don’t just write code; I vibe with it to build systems that feel intuitive and resonant.
+  <h3>🚀 Instant Access</h3>
+  <p>Skip the setup and experience Sovereign-T immediately:</p>
+  <a href="https://github.com/GlytheHorizon/sovereign_t/tree/master/release" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STABLE_EXE-00E5FF?style=for-the-badge&logo=rocket&logoColor=black" alt="Download Button" />
+  </a>
+  <p><small>Executable located in the <b>release</b> folder</small></p>
 
-- 🤖 **AI-Driven:** Leveraging LLMs and agents to supercharge the dev cycle.
-- 🛠️ **Full-Stack:** From high-performance Rust backends to fluid React interfaces.
-- 🔐 **Privacy-First:** Focused on data sovereignty and zero-knowledge architecture.
+  <hr />
+</div>
 
----
+## 🛡️ About the Project
 
-### 🛠️ The Tech Ecosystem
-
-| Frontend | Backend | Database |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-
-#### 🛡️ Security & Sovereignty
-`Argon2 Hashing` • `AES-GCM Encryption` • `Zeroize` • `Local-First Vaults`
-
-#### 🧰 Tools & Deployment
-`Vite` • `Tauri v2` • `Vercel` • `Netlify` • `Hostinger` • `Git`
+> [!IMPORTANT]
+> **Sovereign-T** is my **2nd Windows application** project. It represents a significant leap in my desktop development journey, focusing on robust encryption and a premium user experience.
+> 
+> *Note: This repository primarily highlights the **Frontend** architecture and UI/UX patterns, as the core Rust backend is highly extensive.*
 
 ---
 
-### 📁 Featured Projects
+## ✨ Key Features
 
-#### ☯️ [Trayscendence](https://github.com/GlytheHorizon/Trayscendence)
-> **The Heavenly Archive.** A Murim-themed desktop cultivation tracker that gamifies keyboard and mouse activity into spiritual ascension. Built with **Tauri**, **Rust**, and **React**.
-
-#### 🏦 [Sovereign-T](https://github.com/GlytheHorizon/sovereign_t)
-> **The Zero-Knowledge Vault.** A high-security local password manager built with **Tauri** and **React**, ensuring your data never leaves your machine.
-
-#### ⌨️ [CLCKTY](https://github.com/GlytheHorizon/CLCKTY)
-> **Tactile Audio Utility.** Brings the ASMR of high-end mechanical switches to any keyboard. Built with **C#** and **.NET 8**.
-
-#### ⏱️ [Toaa Time Logger](https://github.com/GlytheHorizon/Toaa-Time-Logger)
-> **Internship Streamlining.** An interactive time-tracking app designed for OJT students to log hours with ease. Built with **Next.js 15**.
-
-#### 🛡️ [BSP Navotas Council Portal]
-> **Community Management.** A full-scale portal for the Boy Scouts of the Philippines, managing registrations and finance via **React** and **PHP**.
+| Feature | Description |
+| :--- | :--- |
+| **Sovereign Security** | AES-256-GCM encryption with Argon2 key derivation. Your data never leaves your device. |
+| **Modern UI/UX** | Stunning glassmorphism interface built with React, Tailwind CSS, and custom HSL palettes. |
+| **Advanced Grouping** | Categorize accounts with custom colors and a powerful **Group Merging** engine. |
+| **Security Dashboard** | Real-time health score, password strength analysis, and reuse detection. |
+| **Mini-Vault** | A focused, compact mode for lightning-fast credential access. |
+| **Smart Filtering** | Filter by email provider, username, or group with intelligent sorting. |
 
 ---
 
-### 📊 Vital Signs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlytheHorizon&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
+## 🛠️ Built With
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br />React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+        <br />Rust
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+        <br />TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+        <br />Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+        <br />Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+        <br />SQLite
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/jerwin-cruz-1bb81936b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/GlytheHorizon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jerwincruz53@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## 🏗️ Developer Setup
+
+### Prerequisites
+- **Node.js** (v18+)
+- **Rust** (Latest Stable)
+- **Tauri CLI** (`npm install -g @tauri-apps/cli`)
+
+### Installation
+```bash
+# 1. Clone the repository
+git clone https://github.com/GlytheHorizon/sovereign_t.git
+
+# 2. Enter directory
+cd sovereign_t/frontend
+
+# 3. Install dependencies
+npm install
+
+# 4. Launch in Dev Mode
+npm run dev
+```
 
 ---
-<p align="center">
-  <i>"Turning Pressure into Pleasure through Code."</i>
-</p>
+
+## 📄 License & Credits
+
+- **License**: Licensed under the [MIT License](LICENSE).
+- **Author**: Created with ❤️ by **Jerwin Cruz (GlytheHorizon)**.
+
+<div align="center">
+  <p><i>Sovereign-T — Reclaiming your digital sovereignty, one password at a time.</i></p>
+</div>
