@@ -1,4 +1,4 @@
-# 👨‍💻 Jerwin "Toaa" Estrada Cruz
+# 👨💻 Jerwin "Toaa" Estrada Cruz
 ### AI-Augmented Full Stack Developer | Prompt Engineer | Vibe Coder
 
 <p align="center">
@@ -36,6 +36,9 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 ---
 
 ### 📁 Featured Projects
+
+#### ☯️ [Trayscendence](https://github.com/GlytheHorizon/Trayscendence)
+> **The Heavenly Archive.** A Murim-themed desktop cultivation tracker that gamifies keyboard and mouse activity into spiritual ascension. Built with **Tauri**, **Rust**, and **React**.
 
 #### 🏦 [Sovereign-T](https://github.com/GlytheHorizon/sovereign_t)
 > **The Zero-Knowledge Vault.** A high-security local password manager built with **Tauri** and **React**, ensuring your data never leaves your machine.
