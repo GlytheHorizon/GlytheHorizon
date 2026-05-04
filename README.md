@@ -44,6 +44,24 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 
 ---
 
+### 🛡️ Security & Sovereignty
+
+| Encryption | Hashing | Memory Safety | Architecture |
+| :--- | :--- | :--- | :--- |
+| AES-GCM Encryption | Argon2 Hashing | Zeroize | Local-First Vaults |
+
+---
+
+### 🧰 Tools & Deployment
+
+| Build Tools | Desktop | Hosting | Version Control |
+| :--- | :--- | :--- | :--- |
+| Vite | Tauri v2 | Vercel | Git |
+|  |  | Netlify |  |
+|  |  | Hostinger |  |
+
+---
+
 ### 📁 Featured Projects
 
 #### ☯️ [Trayscendence](https://github.com/GlytheHorizon/Trayscendence)
