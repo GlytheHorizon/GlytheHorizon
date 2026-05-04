@@ -46,20 +46,20 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 
 ### 📁 Featured Projects
 
-#### ☯️ Trayscendence
-> Murim-themed desktop cultivation tracker using **Tauri + Rust + React**
+#### ☯️ [Trayscendence](https://github.com/GlytheHorizon/Trayscendence)
+> **The Heavenly Archive.** A Murim-themed desktop cultivation tracker that gamifies keyboard and mouse activity into spiritual ascension. Built with **Tauri**, **Rust**, and **React**.
 
-#### 🏦 Sovereign-T
-> Zero-knowledge password vault (local-first security)
+#### 🏦 [Sovereign-T](https://github.com/GlytheHorizon/sovereign_t)
+> **The Zero-Knowledge Vault.** A high-security local password manager built with **Tauri** and **React**, ensuring your data never leaves your machine.
 
-#### ⌨️ CLCKTY
-> Mechanical keyboard ASMR system (**C# / .NET 8**)
+#### ⌨️ [CLCKTY](https://github.com/GlytheHorizon/CLCKTY)
+> **Tactile Audio Utility.** Brings the ASMR of high-end mechanical switches to any keyboard. Built with **C#** and **.NET 8**.
 
-#### ⏱️ Toaa Time Logger
-> Internship tracking system (**Next.js 15**)
+#### ⏱️ [Toaa Time Logger](https://github.com/GlytheHorizon/Toaa-Time-Logger)
+> **Internship Streamlining.** An interactive time-tracking app designed for OJT students to log hours with ease. Built with **Next.js 15**.
 
 #### 🛡️ BSP Navotas Council Portal
-> Full-stack management system (**React + PHP**)
+> **Community Management.** A full-scale portal for the Boy Scouts of the Philippines, managing registrations and finance via **React** and **PHP**.
 
 ---
 
