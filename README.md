@@ -56,7 +56,7 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 
 ### 📊 Vital Signs
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats-sigma-five.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=tokyonight&hide_border=true)" alt="GitHub Stats">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlytheHorizon&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
