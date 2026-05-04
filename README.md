@@ -56,9 +56,7 @@ I am a **Web Developer** dedicated to building scalable, interactive digital sol
 
 | Build Tools | Desktop | Hosting | Version Control |
 | :--- | :--- | :--- | :--- |
-| Vite | Tauri v2 | Vercel | Git |
-|  |  | Netlify |  |
-|  |  | Hostinger |  |
+| Vite • CRA | Tauri v2 | Vercel • Netlify • Hostinger | Git |
 
 ---
 
