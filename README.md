@@ -18,7 +18,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0F2027&height=120&section=header&text=Vibe%20Coding%20Mode%20Activated&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-I am a **Software Developer** and **dTechnical Generalist** passionate about building scalable applications and modern web 
+I am a **Software Developer** and **Technical Generalist** passionate about building scalable applications and modern web 
 systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation. 
 
 - 🤖 **AI-Driven:** Leveraging LLMs and agents to supercharge the dev cycle  
