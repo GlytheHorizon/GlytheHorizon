@@ -1,5 +1,5 @@
 # 👨‍💻 Jerwin "Toaa" Estrada Cruz
-### ✨ AI-Augmented Full Stack Developer | Prompt Engineer | Vibe Coder
+### ✨ Software Developer | Technical Generalist | Prompt Engineer | Vibe Coder
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Ideate+%E2%9E%9C+Automate+%E2%9E%9C+Evolve;Building+AI-Powered+Systems;Turning+Pressure+Into+Pleasure+Through+Code" />
@@ -18,7 +18,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0F2027&height=120&section=header&text=Vibe%20Coding%20Mode%20Activated&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-I am a **Web Developer** dedicated to building scalable, interactive digital solutions. I specialize in orchestrating **AI agents** to streamline complex workflows, turning the pressure of development into the pleasure of creation.
+I am a **Software Developer** and **dTechnical Generalist** passionate about building scalable applications and modern web 
+systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation. 
 
 - 🤖 **AI-Driven:** Leveraging LLMs and agents to supercharge the dev cycle  
 - 🛠️ **Full-Stack:** Rust backends + React interfaces  
