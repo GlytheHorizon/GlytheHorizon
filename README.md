@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0F2027&height=120&section=header&text=Agentic Programmer%20&fontSize=20&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,12,30&height=120&section=header&text=Agentic%20Programmer&fontSize=20&fontColor=3ECF8E&animation=fadeIn" />
 </p>
 
 I am a **Software Developer** and **Technical Generalist** passionate about building scalable applications and modern web systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation.
@@ -28,7 +28,7 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GlytheHorizon&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GlytheHorizon&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=radical';" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:3ECF8E&height=100&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=100&section=footer&animation=fadeIn" />
   <br/>
   <i>⚡ "Turning Pressure into Pleasure through Code."</i>
 </p>
