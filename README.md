@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0,12,30&height=120&section=header&text=Agentic%20Programmer&fontSize=20&fontColor=3ECF8E&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027&height=120&section=header&text=Agentic%20Programmer&fontSize=20&fontColor=3ECF8E&animation=fadeIn" />
 </p>
 
 I am a **Software Developer** and **Technical Generalist** passionate about building scalable applications and modern web systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation.
@@ -28,7 +28,9 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GlytheHorizon&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=radical';" />
+  <a href="https://github.com/GlytheHorizon">
+    <img src="https://github-profile-trophy.vercel.app/?username=GlytheHorizon&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GlytheHorizon GitHub Trophies" />
+  </a>
 </p>
 
 ---
@@ -81,8 +83,8 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 
 ### 📊 Vital Signs
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlytheHorizon&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlytheHorizon&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
