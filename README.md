@@ -18,12 +18,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0F2027&height=120&section=header&text=Agentic Programmer%20&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-I am a **Software Developer** and **Technical Generalist** passionate about building scalable applications and modern web 
-systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation. 
+I am a **Software Developer** and **Technical Generalist** passionate about building scalable applications and modern web systems while leveraging AI-augmented development to enhance workflows, efficiency, and innovation.
 
-- 🤖 **AI-Driven:** Leveraging LLMs and agents to supercharge the dev cycle  
-- 🛠️ **Full-Stack:** Rust backends + React interfaces  
-- 🔐 **Privacy-First:** Zero-knowledge architecture  
+- 🤖 **AI-Driven:** Leveraging LLMs and agents to supercharge the dev cycle
+- 🛠️ **Full-Stack:** Rust backends + React interfaces
+- 🔐 **Privacy-First:** Zero-knowledge architecture
 
 ---
 
