@@ -26,11 +26,9 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 
 ---
 
-### 🏆 GitHub Achievements
+### 📈 Activity & Momentum
 <p align="center">
-  <a href="https://github.com/GlytheHorizon">
-    <img src="https://github-profile-trophy.vercel.app/?username=GlytheHorizon&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GlytheHorizon GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GlytheHorizon&theme=tokyonight&area=true&hide_border=true" alt="GlytheHorizon Activity Graph" />
 </p>
 
 ---
@@ -81,9 +79,9 @@ I am a **Software Developer** and **Technical Generalist** passionate about buil
 
 ---
 
-### 📊 Vital Signs
+### 📊 Vital Signs & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlytheHorizon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlytheHorizon&layout=compact&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlytheHorizon&theme=tokyonight&hide_border=true" />
 </p>
 
